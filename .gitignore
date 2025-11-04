@@ -1,0 +1,8 @@
+.venv/
+build/
+dist/
+output/*
+videos/*
+*.mp3
+*.mp4
+uv.lock
